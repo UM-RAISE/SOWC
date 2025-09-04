@@ -1,2 +1,2 @@
-# Digital_Twin_Parameter_Calibration_withSTochastic_Optimization 
+# Digital_Twin_Parameter_Calibration_with_Stochastic_Optimization 
 Stratified adaptive sampling for trust-region optimization of derivative-free simulations; used for parameter calibration of engineering models with data; example, wake model parameter calibration.
